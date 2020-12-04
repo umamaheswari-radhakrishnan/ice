@@ -1,0 +1,60 @@
+.container-fluid {
+  padding-top: 0px;
+  padding-bottom: 70px;
+  padding-left:0px;
+  padding-right: 0px;
+  position: relative;
+}
+
+.bg-1 {
+  background-color: #4CB5F5;
+  color: white;
+}
+
+.img-2 {
+  position: absolute;
+  width: 250px;
+  top: 35%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
+.form1{
+	 position: absolute;
+  width: 250px;
+  top: 35%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+}
+
+li{
+	padding-left: 70px;
+}
+.navbar-left {
+    position: relative;
+    top: -70px;
+}
+.container-fluid1 {
+ position: relative;
+    top: -70px;
+}
+.row{
+	position: relative;
+	top:-70px;
+	width:100%;
+	
+}
+.container3
+{
+	    margin-top: -100px !important;
+}
+.container4{
+	margin-top: 100px !important;
+	
+}
+.container5{
+	margin-top: 50px !important;
+}
+.container7{
+	margin-top: 150px !important;
+	padding-left: 40px;
+}
